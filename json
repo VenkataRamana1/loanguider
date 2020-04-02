@@ -8,5 +8,10 @@
         "AppId": 3,
         "AppName": "LOAN GUIDER 1",
         "AppLogo": "img2"
+    },
+    {
+        "AppId": 4,
+        "AppName": "LOAN GUIDER 3",
+        "AppLogo": "img3"
     }
 ]
