@@ -1,0 +1,14 @@
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyAMrm7J6lM6KbInPf8vNNdL_espAINukPM",
+    authDomain: "pulluri-b3036.firebaseapp.com",
+    databaseURL: "https://pulluri-b3036.firebaseio.com",
+    projectId: "pulluri-b3036",
+    storageBucket: "pulluri-b3036.appspot.com",
+    messagingSenderId: "156756709468",
+    appId: "1:156756709468:web:7749c9eee4e25aa96d9699"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+</script>
